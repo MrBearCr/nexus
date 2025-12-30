@@ -1,5 +1,5 @@
 {
-  "version": "1.2.1",
-  "url": "https://github.com/MrBearCr/nexus/releases/download/v1.2.1/NEXUS-Setup-v1.2.1.zip",
-  "changelog": "Versión 1.2.1:\n- Correcion de errores en el instalador " 
+  "version": "1.2.3",
+  "url": "https://github.com/MrBearCr/nexus/releases/download/v1.2.3/NEXUS-Setup-v1.2.3.zip",
+  "changelog": "Versión 1.2.3:\n- Se mejoro el proceso de instalación , para evitar incompatibilidad de los procesos de Windows y cierres incompletos imposibilitando la instalación de las actualizaciones " 
 }
